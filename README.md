@@ -1,4 +1,4 @@
-# Radar RH - Frontend
+# IntegraRH - Frontend
 Sistema web para análise de dados aplicada ao absenteísmo corporativo com correlação entre variáveis demográficas, organizacionais e riscos psicossociais.
 
 ## 🚀 Tecnologias Utilizadas
@@ -31,7 +31,7 @@ npm ou yarn
 bash
 ### Clone o repositório
 git clone <url-do-repositorio>
-cd radar-rh
+cd integra-rh
 
 ### Instale as dependências
 npm install
