@@ -1,4 +1,5 @@
-# IntegraRH - Frontend
+# <img width="56" height="56" alt="logoImage" src="https://github.com/user-attachments/assets/2a734701-1e80-48a2-830b-343ad9643f6e" /> IntegraRH - Frontend 
+
 Sistema web para análise de dados aplicada ao absenteísmo corporativo com correlação entre variáveis demográficas, organizacionais e riscos psicossociais.
 
 ## 🚀 Tecnologias Utilizadas
